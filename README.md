@@ -10,9 +10,9 @@ Hi there, this is my official GitHub repository
 
 <p align="center">
   <a href="https://malikimoustapha.binotix.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-malikimoustapha.binotix.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/linkedin.com/in/maliki-moustapha-phd-525646169"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=bQe5fD0AAAAJ&hl&hl=en&oi=ao"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
-  <a href="https://orcid.org/https://orcid.org/0000-0001-9306-8554"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/maliki-moustapha-phd-525646169"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=bQe5fD0AAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
+  <a href="https://orcid.org/0000-0001-9306-8554"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
   <a href="mailto:ayindemalik1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayindemalik1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -41,19 +41,29 @@ angles on the same skill set.
 
 ## 🚀 Featured projects
 
-> 🚧 Portfolio actively being rebuilt — pinned repositories below are updated as each one ships.
-
-### AI / LLM (GenAI)
-
-ongoing and will be updated very soon
+Only shipped work is listed here — every link goes to a repository you can clone and run.
 
 ### Computer Vision
 
-ongoing and will be updated very soon
+**[Object Detection Deployed as a Service](https://github.com/ayindemalik/Objec-Detection-Deployed-As-Service)**
+YOLOv8-nano wrapped in a FastAPI REST service and packaged into a Docker image with its weights baked in,
+plus a Streamlit drag-and-drop front end that is a pure HTTP client — so the service stands entirely on its
+own. `docker run`, and a documented API is live on any machine in about fifteen seconds.
+`Python` · `PyTorch` · `FastAPI` · `Docker` · `Streamlit`
 
-### Data Engineering
+### Data & Analytics
 
-ongoing and will be updated very soon
+**[Customer Behavior & Trends Analysis](https://github.com/ayindemalik/customer-trends-behavior-analysis-python-sql-powerbi)**
+End-to-end analysis pipeline turning raw transactional data into customer segments and product-demand
+trends — SQL extraction, Python analysis, and an interactive Power BI dashboard.
+`Python` · `SQL` · `Power BI`
+
+### Currently building
+
+- **DocIntel** — multimodal RAG over technical and medical documents: hybrid BM25 + dense retrieval, inline citations, and an evaluation harness measuring faithfulness, latency, and cost per query.
+- **Industrial time-series analysis & anomaly detection** — forecasting and anomaly detection over industrial sensor data.
+
+---
 
 ## 🛠️ Tech stack
 
@@ -96,7 +106,7 @@ object detection & segmentation · transfer learning · time-series forecasting 
 <!-- - *[Third publication — title, venue, year, DOI]*
 - *[Fourth publication — title, venue, year, DOI]* -->
 
-📚 Full list on **[Google Scholar](https://scholar.google.com/citations?user=bQe5fD0AAAAJ&hl&hl=en&oi=ao)** · **[ORCID](https://orcid.org/0000-0001-9306-8554)** · **[Web of Science](https://www.webofscience.com/wos/author/record/LRC-7950-2024)**
+📚 Full list on **[Google Scholar](https://scholar.google.com/citations?user=bQe5fD0AAAAJ&hl=en)** · **[ORCID](https://orcid.org/0000-0001-9306-8554)** · **[Web of Science](https://www.webofscience.com/wos/author/record/LRC-7950-2024)**
 
 ---
 
@@ -113,6 +123,6 @@ object detection & segmentation · transfer learning · time-series forecasting 
 I'm open to **remote AI/ML Engineer, Data Engineer, and research positions worldwide**, and happy to talk
 about collaborations or consulting through Binotix.
 
-📧 **ayindemalik1@gmail.com** &nbsp;·&nbsp; 🌐 **[malikimoustapha.binotix.com](https://malikimoustapha.binotix.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/linkedin.com/in/maliki-moustapha-phd-525646169)**
+📧 **ayindemalik1@gmail.com** &nbsp;·&nbsp; 🌐 **[malikimoustapha.binotix.com](https://malikimoustapha.binotix.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/maliki-moustapha-phd-525646169)**
 
 <p align="center"><sub>Research rigour, production discipline — one engineer.</sub></p>
