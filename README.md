@@ -45,7 +45,7 @@ Only shipped work is listed here — every link goes to a repository you can clo
 
 ### Computer Vision
 
-**[Object Detection Deployed as a Service](https://github.com/ayindemalik/Objec-Detection-Deployed-As-Service)**
+**[Object Detection Deployed as a Service](https://github.com/ayindemalik/Object-Detection-Deployed-As-Service)**
 YOLOv8-nano wrapped in a FastAPI REST service and packaged into a Docker image with its weights baked in,
 plus a Streamlit drag-and-drop front end that is a pure HTTP client — so the service stands entirely on its
 own. `docker run`, and a documented API is live on any machine in about fifteen seconds.
