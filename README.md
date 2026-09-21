@@ -51,12 +51,18 @@ plus a Streamlit drag-and-drop front end that is a pure HTTP client — so the s
 own. `docker run`, and a documented API is live on any machine in about fifteen seconds.
 `Python` · `PyTorch` · `FastAPI` · `Docker` · `Streamlit`
 
+**[Trustworthy Medical Image Classification](https://github.com/ayindemalik/Trustworthy-Medical-Image-Classification)**
+A blood-cell classifier that reports how sure it is, hands its least certain cases to a human, and shows where in the image it looked.
+`Python` · `PyTorch` · `torchvision` · `MedMNIST` · `scikit-learn` · `NumPy` · `Matplotlib` · `Gradio` · `uv`
+
+
 ### Data & Analytics
 
 **[Customer Behavior & Trends Analysis](https://github.com/ayindemalik/customer-trends-behavior-analysis-python-sql-powerbi)**
 End-to-end analysis pipeline turning raw transactional data into customer segments and product-demand
 trends — SQL extraction, Python analysis, and an interactive Power BI dashboard.
 `Python` · `SQL` · `Power BI`
+
 
 ### Currently building
 
